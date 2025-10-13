@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="643153c2-b66d-4ae0-ad24-e93d8111d132" name="Changes" comment="first pass at HW1 coding">
-      <change afterPath="$PROJECT_DIR$/asset_pricing_hw2.ipynb" afterDir="false" />
+    <list default="true" id="643153c2-b66d-4ae0-ad24-e93d8111d132" name="Changes" comment="first pass at HW2 asset pricing">
+      <change beforePath="$PROJECT_DIR$/.idea/ModernAppliedOptimization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ModernAppliedOptimization.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset_pricing_hw2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/asset_pricing_hw2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +25,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "wickmanb22"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:wickmanb22/ModernAppliedOptimization.git",
+    "accountId": "b29eb0fa-d707-4856-a45a-c9621bf483af"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="33puKLYaDUlVXuep9Pd18F9nuNz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +48,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/bwick/Documents/ModernAppliedOptimization",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -53,8 +68,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.26775.22" />
-        <option value="bundled-python-sdk-9f73701ac511-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.26775.22" />
+        <option value="bundled-python-sdk-d27dc8f8c276-a636b6f4477c-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-252.26199.84" />
       </set>
     </attachedChunks>
   </component>
@@ -85,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first pass at HW1 coding" />
-    <option name="LAST_COMMIT_MESSAGE" value="first pass at HW1 coding" />
+    <MESSAGE value="first pass at HW2 asset pricing" />
+    <option name="LAST_COMMIT_MESSAGE" value="first pass at HW2 asset pricing" />
   </component>
 </project>
