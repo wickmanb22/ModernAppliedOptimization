@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="643153c2-b66d-4ae0-ad24-e93d8111d132" name="Changes" comment="second pass at HW2 asset pricing">
+    <list default="true" id="643153c2-b66d-4ae0-ad24-e93d8111d132" name="Changes" comment="gaammer and clean-up for HW2 asset pricing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset_pricing_hw2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/asset_pricing_hw2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1_wickman.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw1_wickman.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +99,8 @@
     <MESSAGE value="first pass at HW1 coding" />
     <MESSAGE value="first pass at HW2 asset pricing" />
     <MESSAGE value="second pass at HW2 asset pricing" />
-    <option name="LAST_COMMIT_MESSAGE" value="second pass at HW2 asset pricing" />
+    <MESSAGE value="final pass at HW2 asset pricing" />
+    <MESSAGE value="gaammer and clean-up for HW2 asset pricing" />
+    <option name="LAST_COMMIT_MESSAGE" value="gaammer and clean-up for HW2 asset pricing" />
   </component>
 </project>
