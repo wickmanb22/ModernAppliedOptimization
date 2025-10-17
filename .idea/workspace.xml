@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="643153c2-b66d-4ae0-ad24-e93d8111d132" name="Changes" comment="play around with expected utility q2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw1_wickman.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw1_wickman.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="643153c2-b66d-4ae0-ad24-e93d8111d132" name="Changes" comment="final optimization edits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,6 +100,7 @@
     <MESSAGE value="gaammer and clean-up for HW2 asset pricing" />
     <MESSAGE value="optimization hw1 updates while typing it up" />
     <MESSAGE value="play around with expected utility q2" />
-    <option name="LAST_COMMIT_MESSAGE" value="play around with expected utility q2" />
+    <MESSAGE value="final optimization edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="final optimization edits" />
   </component>
 </project>
